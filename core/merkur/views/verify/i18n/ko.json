@@ -1,0 +1,23 @@
+{
+  "verify-title": "정품 게임 인증 방법",
+  "howtocheck-steps-text": "Pragmatic Play 게임의 정품 인증 여부 확인을 위해서 다음 2 단계를 모두 확인하시기 바랍니다:",
+  "step1-title": "1단계",
+  "step1-text": "현재 페이지 도메인이 아래와 같이 시작하는지 확인해주세요",
+  "step2-title": "2단계",
+  "important-title": "중요사항",
+  "important-text-1": "1단계와 2단계 모두 확인하셨다면, 이 게임의 정품 인증은 완료되었습니다. 축하합니다!",
+  "important-text-2": "1단계와 2단계 중 하나라도 확인이 불가하다면, 고객님은 정품이 아닌 Pragmatic Play 게임 유사품을 사용하고 있는 것이며 고객님의 자산은 각종 사기위험에 처한 상태입니다.",
+  "rounds-absent": "아직 Pragmatic Play 게임을 하지 않았습니다.",
+  "last-rounds-title": "해당 사이트에서 마지막으로 Pragmatic Play에서 플레이한 게임이 아래와 같은지 확인해주세요:",
+  "round": "라운드",
+  "game": "게임",
+  "bet": "베팅",
+  "time": "시간",
+  "attention-step1-title": "주의사항!",
+  "attention-step1-text": "현재 페이지 도메인이 정확히 \"domain/verify\"로 시작하지 않는다면 공식 허가된 게임이 아닙니다. 고객님의 자산이 각종 사기 위험에 처한 상태이니 잔액 모두 출금 요청하시는 것을 추천드립니다. 정품 Pragmatic Play 게임만 플레이하세요.",
+  "attention-step2-title": "주의사항!",
+  "attention-step2-text": "현재 페이지에 Pragmatic Play 게임이 나온다면 공식 허가된 곳이 아닌 유사품입니다. 고객님의 자산이 각종 사기 위험에 처한 상태이니 잔액 모두 출금 요청하시는 것을 추천드립니다. 정품 Pragmatic Play 게임만 플레이하세요.",
+  "abuse-report-text": "인증되지 않은 게임은 아래로 연락 부탁드립니다:",
+  "email": "이메일: report@pragmaticplay.com",
+  "telegram": "텔레그램: @ppverify (Pragmatic Play Verify)"
+}

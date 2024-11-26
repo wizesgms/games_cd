@@ -1,0 +1,17 @@
+/node_modules
+/node_modules.rar
+/log
+/log_gen
+/.vscode
+/.env
+/package-lock.json
+/backup
+/models/jsons/*.json
+/models/jsons/*/*
+/문서
+/doc
+/_패치.cmd
+/온라인패치.cmd
+/_GitPull.cmd
+/_GitPush.cmd
+/logconfig.json
